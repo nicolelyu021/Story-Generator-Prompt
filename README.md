@@ -121,7 +121,7 @@ This project was developed with a focus on solving an open-ended and ambiguous p
 ---
 
 ## Future Enhancements
-- If I had more than 2-3 hours to spend on this project, I would ...
+If I had more than 2-3 hours to spend on this project, I would ...
 
 ### 1. **Improved Input Understanding**
 - **Objective**: Better handle ambiguous or irrelevant user inputs during brainstorming.
