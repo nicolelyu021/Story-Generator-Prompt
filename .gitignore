@@ -1,0 +1,22 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Environment variables or API keys
+.env
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# Logs
+*.log
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# System-specific files
+.DS_Store
+Thumbs.db
